@@ -1,0 +1,1 @@
+import{_ as t,c as e,o,a3 as a}from"./chunks/framework.DpFyhY0e.js";const b=JSON.parse('{"title":"Terminology","description":"","frontmatter":{},"headers":[],"relativePath":"terminology.md","filePath":"terminology.md"}'),r={name:"terminology.md"},i=a("",32),s=[i];function n(u,c,d,h,l,m){return o(),e("div",null,s)}const f=t(r,[["render",n]]);export{b as __pageData,f as default};
